@@ -17,6 +17,7 @@ public class Aditzak  extends JFrame{
 		System.out.println("Segunda modificaciï¿½n con Git");
 		System.out.println("AÃ±adido con copoliy@gmail.com desde Bonito");
 		System.out.println("Añadido desde Eclipse con EGit");
+		System.out.println("Me está tocando los bowlings");
 		
 		try {
 			UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel");
